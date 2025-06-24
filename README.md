@@ -21,4 +21,5 @@ I used KMK to create the Firmware
 - 4x Heatset inserts (M3x5x4)
 - 4x screws (M3x16)
 - 3d printing Filament (Any works)
+- Double sided tape
 
