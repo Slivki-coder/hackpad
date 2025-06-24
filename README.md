@@ -16,9 +16,9 @@ The PCB was designed in KiCAD
 I used KMK to create the Firmware
 
 ## BOM
-1x XIAO RP2040 
-4x Cherry MX switches
-4x Heatset inserts (M3x5x4)
-4x screws (M3x16)
-3d printing Filament (Any works)
+- 1x XIAO RP2040 
+- 4x Cherry MX switches
+- 4x Heatset inserts (M3x5x4)
+- 4x screws (M3x16)
+- 3d printing Filament (Any works)
 
