@@ -16,6 +16,9 @@ The PCB was designed in KiCAD
 ## Firmware
 I used KMK to create the Firmware
 
+![WhatsApp Bild 2025-08-15 um 00 47 10_63ff0198](https://github.com/user-attachments/assets/84fbf4c5-b5c2-4985-94e4-eb1665a01671)
+
+
 ## BOM
 - 1x XIAO RP2040 
 - 4x Cherry MX switches
